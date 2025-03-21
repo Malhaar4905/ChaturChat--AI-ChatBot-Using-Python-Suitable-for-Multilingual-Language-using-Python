@@ -1,0 +1,2 @@
+# ChaturChat--AI-ChatBot-Using-Python-Suitable-for-Multilingual-Language-using-Python
+No problem! Here’s a version under 350 characters:    ChaturChat is an AI chatbot that supports real-time conversations in multiple Indian languages using Google Gemini, speech recognition, and translation services. It enables natural text and voice communication, making AI interactions more inclusive and accessible for diverse users.
